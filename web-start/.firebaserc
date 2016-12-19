@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "aapexecutive-web",
+    "staging": "aapexecutive-web"
+  }
+}
